@@ -12,6 +12,7 @@ numpy (1.16.0)
 * The agent (grey circle) has four actions: move up, right, down, and left.
 * View the position of the agent as the state.
 * It random generates the positions of a gold (yellow grid with reward = 1), hells (red grids with reward = -1), and obstacles (black grids). The agent will start at (0,0) position, which is the top left of the map.
+* To run this program, simply run `$python grid_world.py`
 
 * **Member functions:**
   * value_iter: Performs value iteration for the given grid map.
