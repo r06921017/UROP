@@ -1,4 +1,4 @@
-# UROP
+# UROP_LIS
 This is the work for UROP Proposal and Exercises for LIS, CSAIL, MIT
 
 ### Requirements
