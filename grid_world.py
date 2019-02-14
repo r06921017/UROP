@@ -185,7 +185,7 @@ class GridMap:
                    self.grid_size // 4, (100, 100, 100), -1)
 
         cv2.imshow('temp', img)
-        cv2.waitKey(500)
+        cv2.waitKey(250)
 
         return
 
