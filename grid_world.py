@@ -27,6 +27,7 @@ class GridMap:
                                       size=(self.n_gold + self.n_hell + self.n_obs), replace=False)
 
         print 'grid_idx = ', __grid_idx
+        print 'hello~~'
 
         self.gold_raw, self.gold_col = np.unravel_index(indices=np.max(__grid_idx),
                                                         dims=(self.n_raw, self.n_col))
